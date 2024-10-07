@@ -1,4 +1,4 @@
-# JavaScript Calculator
+#  Calculator
 
 ## Description
 This is a JavaScript calculator that allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It also supports percentage calculations by interpreting the `%` symbol correctly.

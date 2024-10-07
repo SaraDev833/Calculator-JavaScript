@@ -32,12 +32,12 @@ Feel free to fork the repository and submit pull requests for enhancements, bug 
 This project is open source and available under the MIT License.
 
 ## Getting Started
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SaraDev833/Calculator-JavaScript.git
 
 ### Prerequisites
 - A modern web browser
 - Basic knowledge of HTML, CSS, and JavaScript (for modifications)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SaraDev833/Calculator-JavaScript.git
